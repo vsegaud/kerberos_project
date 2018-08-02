@@ -1,0 +1,53 @@
+[Wed Aug 01 15:09:42.576327 2018] [mpm_event:notice] [pid 1716:tid 140673886487744] AH00489: Apache/2.4.25 (Debian) configured -- resuming normal operations
+[Wed Aug 01 15:09:42.576513 2018] [core:notice] [pid 1716:tid 140673886487744] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:15:37.144665 2018] [mpm_event:notice] [pid 1716:tid 140673886487744] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:19:32.546351 2018] [mpm_event:notice] [pid 2300:tid 140340816360640] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:19:32.546526 2018] [core:notice] [pid 2300:tid 140340816360640] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:19:56.537406 2018] [mpm_event:notice] [pid 2300:tid 140340816360640] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:19:56.605042 2018] [mpm_event:notice] [pid 2383:tid 140630290986176] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:19:56.605151 2018] [core:notice] [pid 2383:tid 140630290986176] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:20:19.580618 2018] [auth_kerb:error] [pid 2385:tid 140630080599808] [client 172.17.1.28:61903] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:20:27.046730 2018] [auth_kerb:error] [pid 2385:tid 140630072207104] [client 172.17.1.28:61910] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:21:25.545881 2018] [auth_kerb:error] [pid 2386:tid 140630105777920] [client 172.17.1.28:61924] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:33:15.420484 2018] [mpm_event:notice] [pid 2383:tid 140630290986176] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:33:15.511425 2018] [mpm_event:notice] [pid 3748:tid 140399705851072] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:33:15.511574 2018] [core:notice] [pid 3748:tid 140399705851072] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:43:09.468137 2018] [mpm_event:notice] [pid 3748:tid 140399705851072] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:43:09.558196 2018] [mpm_event:notice] [pid 4023:tid 139934610150592] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:43:09.558337 2018] [core:notice] [pid 4023:tid 139934610150592] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:44:03.660319 2018] [auth_kerb:error] [pid 4026:tid 139934497527552] [client 172.17.1.28:62154] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:44:03.802818 2018] [auth_kerb:error] [pid 4026:tid 139934505920256] [client 172.17.1.28:62158] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:44:17.288422 2018] [auth_kerb:error] [pid 4026:tid 139934489134848] [client 172.17.1.28:62162] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:44:40.660227 2018] [auth_kerb:error] [pid 4027:tid 139934312650496] [client 172.17.1.28:62167] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:46:33.494329 2018] [mpm_event:notice] [pid 4023:tid 139934610150592] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:46:33.593953 2018] [mpm_event:notice] [pid 4177:tid 140182118999232] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:46:33.594148 2018] [core:notice] [pid 4177:tid 140182118999232] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:46:36.222787 2018] [auth_kerb:error] [pid 4180:tid 140182014768896] [client 172.17.1.28:62192] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:49:32.707367 2018] [mpm_event:notice] [pid 4177:tid 140182118999232] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 15:49:32.795162 2018] [mpm_event:notice] [pid 4295:tid 139826780374208] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 15:49:32.798616 2018] [core:notice] [pid 4295:tid 139826780374208] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 15:49:35.702306 2018] [auth_kerb:error] [pid 4297:tid 139826676143872] [client 172.17.1.28:62200] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 15:49:50.938262 2018] [auth_kerb:error] [pid 4297:tid 139826659358464] [client 172.17.1.28:62213] gss_acquire_cred() failed: An invalid name was supplied (, Configuration file does not specify default realm)
+[Wed Aug 01 16:04:36.451775 2018] [mpm_event:notice] [pid 4295:tid 139826780374208] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 16:04:36.548296 2018] [mpm_event:notice] [pid 4724:tid 139988797736128] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 16:04:36.548633 2018] [core:notice] [pid 4724:tid 139988797736128] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Aug 01 16:05:53.947202 2018] [core:warn] [pid 4724:tid 139988797736128] AH00045: child process 4729 still did not exit, sending a SIGTERM
+[Wed Aug 01 16:05:55.949698 2018] [core:warn] [pid 4724:tid 139988797736128] AH00045: child process 4729 still did not exit, sending a SIGTERM
+[Wed Aug 01 16:05:57.951123 2018] [mpm_event:notice] [pid 4724:tid 139988797736128] AH00491: caught SIGTERM, shutting down
+[Wed Aug 01 16:05:58.046109 2018] [mpm_event:notice] [pid 4843:tid 139803865060544] AH00489: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Wed Aug 01 16:05:58.046250 2018] [core:notice] [pid 4843:tid 139803865060544] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 02 08:58:46.926928 2018] [mpm_event:notice] [pid 4843:tid 139803865060544] AH00491: caught SIGTERM, shutting down
+[Thu Aug 02 08:58:47.025250 2018] [mpm_prefork:notice] [pid 23667] AH00163: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Thu Aug 02 08:58:47.025394 2018] [core:notice] [pid 23667] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 02 08:58:47.524907 2018] [mpm_prefork:notice] [pid 23667] AH00169: caught SIGTERM, shutting down
+[Thu Aug 02 08:58:47.677750 2018] [mpm_prefork:notice] [pid 23722] AH00163: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Thu Aug 02 08:58:47.677837 2018] [core:notice] [pid 23722] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 02 08:59:34.188871 2018] [mpm_prefork:notice] [pid 23722] AH00169: caught SIGTERM, shutting down
+[Thu Aug 02 08:59:34.345216 2018] [mpm_prefork:notice] [pid 23807] AH00163: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Thu Aug 02 08:59:34.345304 2018] [core:notice] [pid 23807] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 02 08:59:40.362631 2018] [:error] [pid 23825] [client 172.17.1.28:63157] script '/var/www/html/index.php' not found or unable to stat
+[Thu Aug 02 09:02:14.439557 2018] [mpm_prefork:notice] [pid 23807] AH00169: caught SIGTERM, shutting down
+[Thu Aug 02 09:02:14.593636 2018] [mpm_prefork:notice] [pid 23868] AH00163: Apache/2.4.25 (Debian) mod_auth_kerb/5.4 configured -- resuming normal operations
+[Thu Aug 02 09:02:14.593721 2018] [core:notice] [pid 23868] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Aug 02 09:02:17.342454 2018] [:error] [pid 23886] [client 172.17.1.28:63162] PHP Notice:  Undefined index: AUTH_USER in /var/www/html/index.php on line 6
+[Thu Aug 02 09:04:56.347252 2018] [:error] [pid 23887] [client 172.17.1.28:63166] PHP Notice:  Undefined variable: user in /var/www/html/index.php on line 7
